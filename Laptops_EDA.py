@@ -20,7 +20,7 @@ slt.sidebar.title("Under the Guidence of - ")
 slt.sidebar.write(" Dr. B Rama Krishna")
 
 #Designing Main Page
-icon1 = Image.open("logo.png")
+icon1 = Image.open("logo (1).png")
 slt.image(icon1,use_column_width = True)
 slt.title("Exploratory Data Analysis On Laptops DataSet")
 uploaded_file = slt.file_uploader("Upload a Laptops Dataset (.csv)")
